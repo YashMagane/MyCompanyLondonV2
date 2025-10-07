@@ -56,7 +56,7 @@ Each page was carefully structured and styled to replicate the Figma reference a
 ## 🚀 How to View the Project
 
 You can view the live version of this project here:  
-🔗 **[Live Demo](https://yourusername.github.io/advanced-figma-html-css/)**  
+🔗 **[Live Demo](https://yashmagane.github.io/MyCompanyLondonV2/)**  
 
 To view locally:
 1. Clone the repository:
